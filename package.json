@@ -1,6 +1,9 @@
 {
     "name": "covid19",
     "version": "0.1.0",
+      "engines": {
+    "node": "12.13.0"
+  },
     "private": true,
     "dependencies": {
         "@ctrl/tinycolor": "^2.6.0",
